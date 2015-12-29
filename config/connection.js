@@ -30,6 +30,6 @@ module.exports = {
   // some config about migration or something
   defaults: {
     // migration mode
-    migrate: 'alter'
+    migrate: 'safe'
   }
 };
